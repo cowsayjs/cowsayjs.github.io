@@ -1,1 +1,0 @@
-# saycow function on js
